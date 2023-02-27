@@ -2,7 +2,7 @@
 ### I'm Software Development. 
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/ramon-diogo-yy92m8d30/">
+  <a href="https://www.linkedin.com/in/ramon-diogo-yy92m8d30/" target="_blank">
   { MORE ABOUT ME }
 </div>
 <div style="display: inline_block" align="center"><br>
