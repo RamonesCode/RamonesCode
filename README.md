@@ -2,9 +2,8 @@
 ### I'm Software Development. 
 
 <div align="center">
-  <a href="https://github.com/ramonescode">
-  <img height="125em" src="https://github-readme-stats.vercel.app/api?username=ramonescode&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
-  <img height="125em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramonescode&layout=compact&langs_count=7&theme=gruvbox"/>
+  <a href="https://www.linkedin.com/in/ramon-diogo-yy92m8d30/">
+  { MORE ABOUT ME }
 </div>
 <div style="display: inline_block" align="center"><br>
   <img align="center" alt="ramon-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
