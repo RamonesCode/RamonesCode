@@ -10,7 +10,7 @@
   <img align="center" alt="ramon-DotNet" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
   <img align="center" alt="ramon-AWS"    height="30" width="40" src="https://pics.freeicons.io/uploads/icons/png/18181230061536126577-64.png"/>
   <img align="center" alt="ramon-Docker"    height="30" width="40" src="https://pics.freeicons.io/uploads/icons/png/8467612941536233213-64.png"/>  
-  <img align="center" alt="ramon-Sql"    height="30" width="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3cFunGZVwtFTKlUQHTImEJq2kIMU7wNcllg&usqp=CAU"/>
+  <img align="center" alt="ramon-Sql"    height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" />
   <img align="center" alt="ramon-MongoDB"   height="30" width="40" src="https://pics.freeicons.io/uploads/icons/png/1888890291551942128-64.png"/>
   <img align="center" alt="ramon-Mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
   <img align="center" alt="ramon-Azure"  height="30" whidth="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" />
