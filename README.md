@@ -8,6 +8,8 @@
 <div style="display: inline_block" align="center"><br>
   <img align="center" alt="ramon-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="ramon-DotNet" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
+  <img align="center" alt="ramon-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
+  <img align="center" alt="ramon-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />                  
   <img align="center" alt="ramon-AWS"    height="30" width="40" src="https://pics.freeicons.io/uploads/icons/png/18181230061536126577-64.png"/>
   <img align="center" alt="ramon-Docker"    height="30" width="40" src="https://pics.freeicons.io/uploads/icons/png/8467612941536233213-64.png"/>  
   <img align="center" alt="ramon-Sql"    height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" />
